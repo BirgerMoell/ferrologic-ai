@@ -64,18 +64,27 @@ Cat vs dog predictor. Training your model. Checkin if it works in your browser.
 The unreasonable effectiveness of LSTMs.
 LSTMs for language translation and working with time series data.
 
+Building LSTM for predicting stock market, LOL
 
 14:15-14:45 Building your own LSTMs | Code |
 
 14:45-15:00 Coffee and break
 
 15:00-15.15 Generative models | Talk |
+GANS, example of cool gans and generative models.
 15:15-15:45 Trying out GANS | Code |
-
+Trying out a NVIDIA example for GANS
 15:45-16:00 Coffee and break
 
 16:00-16.15 Machine learning in the wild | Talk |
+Going over the different solutions,
+Flask, Ubuntu Google, AWS, Azure?!?
+Training models. Pricing and plans.
+How to store a saved model.
+
 16:15-16:45 Serving your own machine learning model | Code |
+Getting our cat model online. Trying it out in the wild and sending image requests to it.
+
 16:45-17:00 Q and A | Interactive
 
 
