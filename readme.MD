@@ -1,6 +1,9 @@
+# Ferrologic Data Science Certificate
+## ML / Deep Learning lecture
+## Birger Moëll Machine Learning Engineer Ayond AB
 <img src="https://i.imgur.com/fSiBv4g.jpg" style="width: 100%;">
 
-# Installing all the things for working with machine learning
+# Installations for working with deep learning
 
 <img src="https://i.imgur.com/NOPJO6B.png" style="width: 100%;">
 
