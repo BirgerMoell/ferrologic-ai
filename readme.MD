@@ -1,4 +1,10 @@
-# Installing all the things for working with machine learning
+# Ferrologic Data Science Certificate
+## ML / Deep Learning lecture
+
+## Schedule
+<img src="https://i.imgur.com/fSiBv4g.jpg" style="width: 100%;">
+
+# Installations for working with deep learning
 
 <img src="https://i.imgur.com/NOPJO6B.png" style="width: 100%;">
 
