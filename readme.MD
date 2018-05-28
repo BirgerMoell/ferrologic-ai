@@ -78,7 +78,7 @@ ML / Deep Learning lecture
 Birger Moëll Machine Learning Engineer Ayond AB
  
 ## 09:00-09:30 Introduction to Machine learning / Deep Learning  | Talk |  
-[Introduction to Machine Learning Slides](https://docs.google.com/presentation/d/1YkK9XBP61sQY6c2XdUDOoej4kpp4CVqtAV0ZB-l8ZkE/edit?usp=sharing)
+[Introduction to Machine Learning Slides](https://docs.google.com/presentation/d/1mzLeUZZmQpa4UFhq8ryIBbQV0Pybfe1UYQYjFcXrvqI/edit?usp=sharing)
 09:30-09:45 Getting your machines ready for machine learning | Code |   
 Write code for installing properly on mac and windows
 Install for windows and mac, keras, tensorflow, numpy. 
